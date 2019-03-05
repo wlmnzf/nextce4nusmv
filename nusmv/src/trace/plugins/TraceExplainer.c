@@ -121,6 +121,8 @@ void trace_explainer_init(TraceExplainer_ptr self, boolean changes_only)
 
   OVERRIDE(Object, finalize) = trace_explainer_finalize;
   OVERRIDE(TracePlugin, action) = trace_explainer_action;
+//#define OVERRIDE(Class, virtual_method) \
+//       ((Class*) self)->virtual_method
 
   self->changes_only = changes_only;
 }

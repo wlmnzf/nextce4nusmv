@@ -83,9 +83,7 @@
 #endif
 
 /* Disables expat usage */
-#ifndef NUSMV_HAVE_LIBEXPAT
-#define NUSMV_HAVE_LIBEXPAT 1
-#endif
+/* #undef HAVE_LIBEXPAT */
 
 /* Define to 1 if you have the `m' library (-lm). */
 #ifndef NUSMV_HAVE_LIBM
@@ -94,7 +92,7 @@
 
 /* Uses the private readline */
 #ifndef NUSMV_HAVE_LIBREADLINE
-#define NUSMV_HAVE_LIBREADLINE 1
+#define NUSMV_HAVE_LIBREADLINE 0
 #endif
 
 /* Define to 1 if you have the <limits.h> header file. */
@@ -335,7 +333,7 @@
 
 /* Library build date */
 #ifndef NUSMV_LIBRARY_BUILD_DATE
-#define NUSMV_LIBRARY_BUILD_DATE "Sun Mar 16 17:35:00 UTC 2014"
+#define NUSMV_LIBRARY_BUILD_DATE "Mon Mar  4 12:57:51 UTC 2019"
 #endif
 
 /* Library Email */
@@ -385,7 +383,7 @@
 
 /* Build date */
 #ifndef NUSMV_PACKAGE_BUILD_DATE
-#define NUSMV_PACKAGE_BUILD_DATE "Sun Mar 16 17:35:00 UTC 2014"
+#define NUSMV_PACKAGE_BUILD_DATE "Mon Mar  4 12:57:51 UTC 2019"
 #endif
 
 /* Define to the full name of this package. */
@@ -430,7 +428,7 @@
 
 /* The size of `long', as computed by sizeof. */
 #ifndef NUSMV_SIZEOF_LONG
-#define NUSMV_SIZEOF_LONG 4
+#define NUSMV_SIZEOF_LONG 8
 #endif
 
 /* The size of `long long', as computed by sizeof. */
@@ -440,7 +438,7 @@
 
 /* The size of `void *', as computed by sizeof. */
 #ifndef NUSMV_SIZEOF_VOID_P
-#define NUSMV_SIZEOF_VOID_P 4
+#define NUSMV_SIZEOF_VOID_P 8
 #endif
 
 /* Define to 1 if you have the ANSI C header files. */
@@ -450,7 +448,9 @@
 
 /* Define to 1 if `lex' declares `yytext' as a `char *' by default, not a
    `char[]'. */
-/* #undef YYTEXT_POINTER */
+#ifndef NUSMV_YYTEXT_POINTER
+#define NUSMV_YYTEXT_POINTER 1
+#endif
 
 /* Define to __FUNCTION__ or "" if `__func__' does not conform to ANSI C. */
 /* #undef __func__ */

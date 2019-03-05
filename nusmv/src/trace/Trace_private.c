@@ -469,6 +469,7 @@ trace_destroy(Trace_ptr self)
 } /* trace_destroy */
 
 
+//SSSSSSSSSSS
 Trace_ptr
 trace_copy_ex (Trace_ptr self, TraceIter from_here, TraceIter until_here,
             boolean is_volatile)

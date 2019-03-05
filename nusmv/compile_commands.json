@@ -1,0 +1,83 @@
+[
+ {
+  "directory": "/home/william/nextce4nusmv/nusmv", 
+  "arguments": [
+   "gcc", 
+   "-DHAVE_CONFIG_H", 
+   "-I.", 
+   "-I.", 
+   "-I./src", 
+   "-I./src", 
+   "-I./../cudd-2.4.1.1/include", 
+   "-DDATADIR=\"/usr/local/share\"", 
+   "-fno-strict-aliasing", 
+   "-g", 
+   "-O2", 
+   "-MT", 
+   "main.o", 
+   "-MD", 
+   "-MP", 
+   "-MF", 
+   ".deps/main.Tpo", 
+   "-c", 
+   "-o", 
+   "main.o", 
+   "src/main.c"
+  ], 
+  "file": "src/main.c"
+ }, 
+ {
+  "directory": "/home/william/nextce4nusmv/nusmv", 
+  "arguments": [
+   "gcc", 
+   "-DHAVE_CONFIG_H", 
+   "-I.", 
+   "-I.", 
+   "-I./src", 
+   "-I./src", 
+   "-I./../cudd-2.4.1.1/include", 
+   "-DDATADIR=\"/usr/local/share\"", 
+   "-fno-strict-aliasing", 
+   "-g", 
+   "-O2", 
+   "-MT", 
+   "ltl2smvMain.o", 
+   "-MD", 
+   "-MP", 
+   "-MF", 
+   ".deps/ltl2smvMain.Tpo", 
+   "-c", 
+   "-o", 
+   "ltl2smvMain.o", 
+   "src/ltl/ltl2smv/ltl2smvMain.c"
+  ], 
+  "file": "src/ltl/ltl2smv/ltl2smvMain.c"
+ }, 
+ {
+  "directory": "/home/william/nextce4nusmv/nusmv", 
+  "arguments": [
+   "gcc", 
+   "-DHAVE_CONFIG_H", 
+   "-I.", 
+   "-I.", 
+   "-I./src", 
+   "-I./src", 
+   "-I./../cudd-2.4.1.1/include", 
+   "-DDATADIR=\"/usr/local/share\"", 
+   "-fno-strict-aliasing", 
+   "-g", 
+   "-O2", 
+   "-MT", 
+   "cinitDummyMac.lo", 
+   "-MD", 
+   "-MP", 
+   "-MF", 
+   ".deps/cinitDummyMac.Tpo", 
+   "-c", 
+   "-o", 
+   "cinitDummyMac.lo", 
+   "src/cinit/cinitDummyMac.c"
+  ], 
+  "file": "src/cinit/cinitDummyMac.c"
+ }
+]

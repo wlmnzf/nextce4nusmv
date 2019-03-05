@@ -223,7 +223,7 @@ void Ltl_CheckLtlSpec(Prop_ptr prop) {
 	Ltl_CheckLtlSpecEx(prop, 0);
 }
 
-void Ltl_CheckLtlSpecSilent(Prop_ptr prop) {
+void Ltl_CheckLtlSpecSilent(Prop_ptr prop) {//call this
 	Ltl_CheckLtlSpecEx(prop, 1);
 }
 
@@ -673,6 +673,7 @@ void Ltl_StructCheckLtlSpec_explain(Ltl_StructCheckLtlSpec_ptr self,
           "-- as demonstrated by the following execution sequence\n");
 
   TraceManager_register_trace(global_trace_manager, trace);
+
   TraceManager_execute_plugin(global_trace_manager, TRACE_OPT(NULL),
                               TRACE_MANAGER_DEFAULT_PLUGIN,
                               TRACE_MANAGER_LAST_TRACE);
