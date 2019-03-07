@@ -322,6 +322,8 @@ static Trace_ptr create_fipath(Prop_ptr prop, Trace_ptr trace) {
 	TraceIter from_here = find_init_trace_step(prop, trace, until_here);
 	Trace_ptr result = Trace_copy_ex(trace, from_here,
 			until_here, FALSE);
+//    Trace_ptr result =trace_copy_ex(trace, from_here,
+//                  until_here, FALSE);
 /*	TODO We assume these are given to us by NuSMV.
 	fipath_progress(result);
 	fipath_reduce_config_loops(result);

@@ -12,723 +12,466 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53de08a4-b635-4b86-b681-926a87178f96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nextce4nusmv.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/makeJpegCmd.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/makeJpegCmd.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/makeJpegCmd.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/makeJpegCmd.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nextce4nusmv.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nextce4nusmv.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nextce4nusmv.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/nextce4nusmv.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/libjpeg.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddAPI.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddAddFind.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddAddIte.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddAddOp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddAndAbs.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddAnneal.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddApprox.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddBddAbs.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddBddCorr.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddBddIte.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddBddOp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddBridge.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddCache.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddCheck.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddClip.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddCof.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddCompose.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddDecomp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddEssent.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddExact.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddExport.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddGenCof.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddGenetic.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddGroup.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddInit.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddInteract.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddLCache.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddLevelQ.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddLinear.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddLiteral.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddRef.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddReorder.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddSat.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddSign.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddSolve.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddSplit.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddSubsetHB.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddSubsetSP.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddSymmetry.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddTable.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddUtil.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddWindow.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddCount.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddFuncs.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddGroup.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddIsop.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddLin.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddMisc.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddPort.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddReord.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddSetop.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddSymm.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/cuddZddUtil.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/cudd/libcudd.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/epd/epd.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/epd/libepd.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/cudd.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/cuddInt.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/cuddObj.hh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/dddmp.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/mnemosyne.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/mtr.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/st.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/include/util.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/lib/libcudd.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/lib/libcudd_util.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/lib/libmtr.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/lib/libst.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/mtr/libmtr.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/mtr/mtrBasic.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/mtr/mtrGroup.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/st/libst.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/st/st.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/cpu_stats.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/cpu_time.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/datalimit.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/getopt.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/libutil.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/pathsearch.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/pipefork.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/prtime.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/ptime.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/safe_mem.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/strsav.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/stub.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/texpand.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cudd-2.4.1.1/util/tmpfile.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.deps/cinitDummyMac.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.deps/ltl2smvMain.Po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.deps/main.Po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.deps/psl.Po" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmv.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmv.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmv.lai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmvcore.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmvcore.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmvcore.lai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/NuSMV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/[config.h].in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/_configs.sed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/compile_commands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/config.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/config.status" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/contrib/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/NuSMV_Cmd_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/NuSMV_Pkg_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/addons_core/compass/compile/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/addons_core/compass/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/addons_core/compass/parser/ap/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/addons_core/compass/parser/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/addons_core/compass/parser/prob/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/addons_core/compass/sigref/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/bmc/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/bmc/sbmc/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/compile/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/compile/symb_table/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/compile/type_checking/checkers/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/compile/type_checking/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/enc/base/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/enc/bdd/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/enc/be/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/enc/bool/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/enc/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/enc/utils/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/fsm/bdd/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/fsm/be/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/fsm/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/fsm/sexp/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/hrc/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/hrc/dumpers/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/node/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/node/normalizers/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/node/printers/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/parser/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/parser/idlist/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/parser/ord/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/parser/psl/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/rbc/clg/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/rbc/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/sat/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/sat/solvers/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trace/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trace/eval/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trace/exec/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trace/loaders/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trace/plugins/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trans/bdd/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trans/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/html/trans/generic/credit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/tutorial/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/doc/user-man/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/examples/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/helpers/extract_doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/libnusmv.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/libnusmvcore.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/libtool" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/nusmv-2.pc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/share/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/.libs/libnusmvsrc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/.libs/libnusmvsrc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/.libs/librbcdag.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/.libs/librbcdag.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/.libs/librbcdag.lai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/.deps/addonsCore.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/.libs/libaddonscore.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/.libs/libaddonscore.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.deps/compassCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.deps/compassPkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.libs/libcompass.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.libs/libcompass.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.deps/ProbAssign.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.deps/compile.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/libcompass.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/.libs/libparser.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/.libs/libparser.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ParserAp.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ap_grammar.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ap_input.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.libs/libparserap.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.libs/libparserap.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/ap_grammar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/ap_grammar.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/ap_input.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/libparserap.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/libparser.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/ParserProb.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/prob_grammar.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/prob_input.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.libs/libparserprob.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.libs/libparserprob.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/libparserprob.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/prob_grammar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/prob_grammar.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/prob_input.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/sigref/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/sigref/.deps/sigrefWrite.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/sigref/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/addons_core/libaddonscore.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/beCnf.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/beManager.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/bePkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/beRbcManager.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/.libs/libbe.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/.libs/libbe.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/be/libbe.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcBmcInc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcBmcNonInc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcCheck.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcConv.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcDump.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcGen.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcInt.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcModel.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcOpt.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcPkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcSimulate.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableau.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableauLTLformula.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableauPLTLformula.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTest.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTrace.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcUtils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.libs/libbmc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/.libs/libbmc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/libbmc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcBmc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcBmcInc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcGen.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcHash.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcNodeStack.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcPkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcStructs.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableau.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauInc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauIncLTLformula.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauLTLformula.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcUtils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.libs/libsbmc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.libs/libsbmc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/libsbmc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitData.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitInit.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitMisc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitVers.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/.libs/libcinit.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/.libs/libcinit.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cinit/libcinit.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdFile.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdMisc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cmd/.libs/libcmd.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cmd/.libs/libcmd.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cmd/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/cmd/libcmd.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/FlatHierarchy.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/PredicateExtractor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/PredicateNormaliser.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileBEval.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCheck.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCone.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileFlatten.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileStruct.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileUtil.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileWrite.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileWriteUdg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.libs/libcompile.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/.libs/libcompile.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/libcompile.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/NFunction.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/ResolveSymbol.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbCache.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbLayer.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbTable.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbType.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/symb_table.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.libs/libcompilest.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.libs/libcompilest.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/libcompilest.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/.deps/TypeChecker.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/.libs/libcompiletc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/.libs/libcompiletc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerBase.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerCore.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerPsl.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerStatement.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/checkersInt.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/libcompiletc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagDfs.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagEnStat.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagManager.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagStat.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagVertex.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/.libs/libdag.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/.libs/libdag.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dag/libdag.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dd/.deps/VarsHandler.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dd/.deps/dd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dd/.deps/ddCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dd/.libs/libdd.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dd/.libs/libdd.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dd/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/dd/libdd.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/.deps/enc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/.deps/encCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/.deps/operators.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/.libs/libenc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/.libs/libenc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/base/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/base/.deps/BaseEnc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/base/.deps/BoolEncClient.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/base/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEnc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEncBddPrintWff.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEncCache.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/be/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/be/.deps/BeEnc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/be/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bool/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bool/.deps/BitValues.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bool/.deps/BoolEnc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/bool/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/libenc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/AddArray.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/OrdGroups.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/utils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/.deps/FsmBuilder.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/.deps/fsm.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/.libs/libfsm.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/.libs/libfsm.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/BddFsm.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/BddFsmCache.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/FairnessList.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/bddCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/bddMisc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/be/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/be/.deps/BeFsm.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/be/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/libfsm.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/BoolSexpFsm.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/Expr.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/SexpFsm.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcFlattener.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcNode.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcVarDependencies.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcDump.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcPrefixUtils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcWrite.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.libs/libhrc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/.libs/libhrc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumper.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperDebug.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperSmv.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperXml.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/hrc/libhrc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/libnusmvsrc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/librbcdag.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltl.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlCompassion.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlRewrite.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/.libs/libltl.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/.libs/libltl.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/libltl.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.deps/ltl2smv.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.libs/libltl2smv.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.libs/libltl2smv.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/libltl2smv.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/ltl2smv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcAGonly.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcEval.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcExplain.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcInvar.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcLE.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcMc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcTrace.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.libs/libmc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/.libs/libmc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/mc/libmc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCE.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCECmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCEDbg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCEPkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/.libs/libnextce.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/.libs/libnextce.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/nextce/libnextce.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/MasterNodeWalker.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/NodeWalker.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/node.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/nodePkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/nodePrint.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/nodeWffPrint.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.libs/libnode.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/.libs/libnode.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/libnode.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/MasterNormalizer.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerBase.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerCore.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerPsl.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.libs/libnodenormalizers.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.libs/libnodenormalizers.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/libnodenormalizers.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/MasterPrinter.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterBase.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterIWffCore.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterPsl.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterSexpCore.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterWffCore.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.libs/libnodeprinters.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.libs/libnodeprinters.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/node/printers/libnodeprinters.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/opt/.deps/OptsHandler.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/opt/.deps/optCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/opt/.libs/libopt.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/opt/.libs/libopt.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/opt/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/opt/libopt.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/grammar.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/input.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/parserCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/parserUtil.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.libs/libparser.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.libs/libparser.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.libs/libsmvgrammar.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.libs/libsmvgrammar.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/.libs/libsmvgrammar.lai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/grammar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/grammar.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/grammar.y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/grammar.y.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/grammar.y.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/grammar.y.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/ParserIdList.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/idlist_grammar.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/idlist_input.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.libs/libparseridlist.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.libs/libparseridlist.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/idlist_grammar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/idlist_grammar.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/idlist_input.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/libparseridlist.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/input.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/input.l" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/input.l.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/input.l.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/input.l.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/libparser.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/libsmvgrammar.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ParserOrd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ord_grammar.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ord_input.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.libs/libparserOrd.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.libs/libparserOrd.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/libparserOrd.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/ord_grammar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/ord_grammar.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/ord_input.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslConv.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslExpr.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslNode.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/psl_grammar.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/psl_input.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.libs/libparserpsl.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.libs/libparserpsl.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/libparserpsl.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/psl_grammar.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/psl_grammar.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/psl_input.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/Prop.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/PropDb.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/propCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/propPkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/.libs/libprop.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/.libs/libprop.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/prop/libprop.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/ConjSet.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/InlineResult.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnf.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnfCompact.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnfSimple.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcFormula.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcInline.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcManager.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcOutput.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcStat.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcSubst.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcUtils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.libs/librbc.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/.libs/librbc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/clg/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/clg/.deps/clgClg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/clg/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/rbc/librbc.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/.deps/SatIncSolver.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/.deps/SatSolver.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/.deps/satUtils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/.libs/libsat.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/.libs/libsat.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/libsat.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/solvers/.deps/SatMinisat.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/solvers/.deps/SatZchaff.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/solvers/.libs/libsatsolvers.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/solvers/.libs/libsatsolvers.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/solvers/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sat/solvers/libsatsolvers.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/set/.deps/setSet.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/set/.libs/libset.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/set/.libs/libset.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/set/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/set/libset.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sexp/.deps/SexpInliner.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sexp/.libs/libsexp.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sexp/.libs/libsexp.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sexp/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/sexp/libsexp.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulate.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulateCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulateTransSet.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/simulate/.libs/libsimulate.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/simulate/.libs/libsimulate.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/simulate/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/simulate/libsimulate.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/Trace.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceLabel.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceManager.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceOpt.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceXml.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/Trace_private.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/pkg_trace.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceCmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceEval.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceTest.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceUtils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.libs/libtrace.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/.libs/libtrace.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/eval/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/eval/.deps/BaseEvaluator.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/eval/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BDDCompleteTraceExecutor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BDDPartialTraceExecutor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BaseTraceExecutor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/CompleteTraceExecutor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/PartialTraceExecutor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/SATCompleteTraceExecutor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/SATPartialTraceExecutor.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/traceExec.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/libtrace.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/loaders/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/loaders/.deps/TraceLoader.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/loaders/.deps/TraceXmlLoader.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/loaders/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceCompact.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceExplainer.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TracePlugin.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceTable.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceXmlDumper.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/.libs/libtrans.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/.libs/libtrans.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/BddTrans.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/Cluster.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/ClusterList.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/ClusterOptions.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/generic/.deps/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/generic/.deps/GenericTrans.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/generic/.dirstamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/trans/libtrans.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/NodeGraph.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/NodeList.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Olist.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Pair.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Slist.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Sset.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Stack.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/TimerBench.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Triple.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/WordNumber.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/array.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/assoc.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/avl.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/error.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/heap.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/list.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/object.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/portability.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/range.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/ucmd.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/ustring.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/utils.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/utils_io.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.libs/libutils.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/.libs/libutils.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/utils/libutils.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/.deps/exprWff.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/.deps/wffPkg.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/.libs/libwff.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/.libs/libwff.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/libwff.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/.deps/wff2nnf.Plo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/.libs/libw2w.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/.libs/libw2w.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/libw2w.la" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/stamp-h1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/test/compile_commands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nusmv/test/test.smv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nusmv/doc/tutorial/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/doc/tutorial/main.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nusmv/doc/user-man/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/doc/user-man/main.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/.deps/ltl2smvMain.Po" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/.deps/ltl2smvMain.Po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/.deps/main.Po" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/.deps/main.Po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/.libs/libnusmv.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmv.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/.libs/libnusmv.lai" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmv.lai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/.libs/libnusmvcore.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmvcore.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/.libs/libnusmvcore.lai" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/.libs/libnusmvcore.lai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/NuSMV" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/NuSMV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/config.log" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/config.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/config.status" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/config.status" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/configure" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/configure" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/contrib/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/contrib/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/doc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/doc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/doc/html/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/doc/html/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/doc/html/NuSMV_Pkg_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/doc/html/NuSMV_Pkg_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/doc/tutorial/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/doc/tutorial/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/doc/user-man/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/doc/user-man/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/examples/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/examples/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/libnusmv.la" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/libnusmv.la" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/libnusmvcore.la" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/libnusmvcore.la" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/libtool" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/libtool" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nusmv/nusmv-config.h" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/nusmv-config.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/ltl.c" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/share/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/_bmc_test_tableauCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/_memory_profileCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/_show_helpCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/add_propertyCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/aliasCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/bmc_inc_simulateCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/bmc_pick_stateCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/bmc_setupCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/bmc_simulateCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/bmc_simulate_check_feasible_constraintsCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/build_boolean_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/build_flat_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/build_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_computeCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_ctlspecCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_fsmCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_invarCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_invar_bmcCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_invar_bmc_incCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_ltlspecCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_ltlspec_bmcCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_ltlspec_bmc_incCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_ltlspec_bmc_onepbCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_ltlspec_sbmcCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_ltlspec_sbmc_incCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_propertyCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/check_pslspecCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/clean_sexp2bdd_cacheCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/compute_reachableCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/dump_exprCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/dump_fsmCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/dynamic_var_orderingCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/echoCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/encode_variablesCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/execute_partial_tracesCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/execute_tracesCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/flatten_hierarchyCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/gen_invar_bmcCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/gen_ltlspec_bmcCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/gen_ltlspec_bmc_onepbCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/gen_ltlspec_sbmcCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/get_internal_statusCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/goCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/go_bmcCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/goto_stateCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/helpCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/historyCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/hrc_dump_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/hrc_write_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/language_emptinessCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/pick_stateCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_bdd_statsCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_clusterinfoCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_current_stateCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_fair_statesCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_fair_transitionsCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_formulaCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_fsm_statsCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_iwls95optionsCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_reachable_statesCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/print_usageCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/process_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/quitCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/read_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/read_traceCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/resetCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/setCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/set_bdd_parametersCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/show_dependenciesCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/show_pluginsCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/show_propertyCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/show_tracesCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/show_varsCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/simulateCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/sourceCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/timeCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/unaliasCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/unsetCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/usageCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/whichCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/write_boolean_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/write_coi_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/write_flat_modelCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/write_flat_model_udgCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/share/help/write_orderCmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/.libs/libnusmvsrc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/.libs/libnusmvsrc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/.libs/librbcdag.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/.libs/librbcdag.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/.deps/addonsCore.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/.deps/addonsCore.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/.libs/libaddonscore.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/.libs/libaddonscore.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.deps/compassCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.deps/compassCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.deps/compassPkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.deps/compassPkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.libs/libcompass.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/.libs/libcompass.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.deps/ProbAssign.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.deps/ProbAssign.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.deps/compile.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/compile/.deps/compile.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/.libs/libparser.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/.libs/libparser.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ParserAp.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ParserAp.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ap_grammar.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ap_grammar.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ap_input.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.deps/ap_input.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.libs/libparserap.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/.libs/libparserap.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/ap/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/ParserProb.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/ParserProb.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/prob_grammar.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/prob_grammar.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/prob_input.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.deps/prob_input.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.libs/libparserprob.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/.libs/libparserprob.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/parser/prob/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/addons_core/compass/sigref/.deps/sigrefWrite.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/addons_core/compass/sigref/.deps/sigrefWrite.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/be/.deps/beCnf.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/beCnf.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/be/.deps/beManager.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/beManager.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/be/.deps/bePkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/bePkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/be/.deps/beRbcManager.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/be/.deps/beRbcManager.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/be/.libs/libbe.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/be/.libs/libbe.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/be/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/be/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcBmcInc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcBmcInc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcBmcNonInc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcBmcNonInc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcCheck.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcCheck.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcConv.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcConv.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcDump.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcDump.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcGen.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcGen.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcInt.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcInt.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcModel.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcModel.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcOpt.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcOpt.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcPkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcPkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcSimulate.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcSimulate.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableau.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableau.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableauLTLformula.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableauLTLformula.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableauPLTLformula.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTableauPLTLformula.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTest.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTest.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTrace.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcTrace.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcUtils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.deps/bmcUtils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/.libs/libbmc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/.libs/libbmc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcBmc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcBmc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcBmcInc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcBmcInc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcGen.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcGen.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcHash.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcHash.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcNodeStack.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcNodeStack.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcPkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcPkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcStructs.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcStructs.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableau.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableau.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauInc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauInc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauIncLTLformula.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauIncLTLformula.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauLTLformula.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcTableauLTLformula.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcUtils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.deps/sbmcUtils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.libs/libsbmc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/.libs/libsbmc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/bmc/sbmc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitData.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitData.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitInit.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitInit.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitMisc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitMisc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitVers.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cinit/.deps/cinitVers.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cinit/.libs/libcinit.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cinit/.libs/libcinit.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cinit/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cinit/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdFile.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdFile.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdMisc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cmd/.deps/cmdMisc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cmd/.libs/libcmd.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cmd/.libs/libcmd.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/cmd/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/cmd/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/FlatHierarchy.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/FlatHierarchy.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/PredicateExtractor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/PredicateExtractor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/PredicateNormaliser.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/PredicateNormaliser.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileBEval.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileBEval.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCheck.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCheck.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCone.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileCone.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileFlatten.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileFlatten.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileStruct.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileStruct.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileUtil.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileUtil.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileWrite.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileWrite.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileWriteUdg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.deps/compileWriteUdg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/.libs/libcompile.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/.libs/libcompile.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/NFunction.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/NFunction.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/ResolveSymbol.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/ResolveSymbol.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbCache.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbCache.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbLayer.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbLayer.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbTable.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbTable.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbType.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/SymbType.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/symb_table.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.deps/symb_table.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.libs/libcompilest.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/.libs/libcompilest.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/symb_table/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/symb_table/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/.deps/TypeChecker.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/.deps/TypeChecker.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/.libs/libcompiletc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/.libs/libcompiletc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerBase.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerBase.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerCore.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerCore.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerPsl.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerPsl.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerStatement.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/CheckerStatement.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/checkersInt.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/compile/type_checking/checkers/.deps/checkersInt.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagDfs.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagDfs.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagEnStat.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagEnStat.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagManager.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagManager.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagStat.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagStat.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagVertex.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dag/.deps/dagVertex.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dag/.libs/libdag.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dag/.libs/libdag.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dag/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dag/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dd/.deps/VarsHandler.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dd/.deps/VarsHandler.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dd/.deps/dd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dd/.deps/dd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dd/.deps/ddCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dd/.deps/ddCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dd/.libs/libdd.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dd/.libs/libdd.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/dd/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/dd/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/.deps/enc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/.deps/enc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/.deps/encCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/.deps/encCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/.deps/operators.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/.deps/operators.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/.libs/libenc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/.libs/libenc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/base/.deps/BaseEnc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/base/.deps/BaseEnc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/base/.deps/BoolEncClient.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/base/.deps/BoolEncClient.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEnc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEnc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEncBddPrintWff.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEncBddPrintWff.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEncCache.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/bdd/.deps/BddEncCache.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/be/.deps/BeEnc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/be/.deps/BeEnc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/bool/.deps/BitValues.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/bool/.deps/BitValues.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/bool/.deps/BoolEnc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/bool/.deps/BoolEnc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/AddArray.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/AddArray.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/OrdGroups.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/OrdGroups.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/utils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/enc/utils/.deps/utils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/.deps/FsmBuilder.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/.deps/FsmBuilder.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/.deps/fsm.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/.deps/fsm.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/.libs/libfsm.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/.libs/libfsm.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/BddFsm.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/BddFsm.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/BddFsmCache.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/BddFsmCache.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/FairnessList.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/FairnessList.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/bddCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/bddCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/bddMisc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/bdd/.deps/bddMisc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/be/.deps/BeFsm.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/be/.deps/BeFsm.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/BoolSexpFsm.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/BoolSexpFsm.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/Expr.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/Expr.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/SexpFsm.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/fsm/sexp/.deps/SexpFsm.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcFlattener.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcFlattener.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcNode.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcNode.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcVarDependencies.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/HrcVarDependencies.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcDump.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcDump.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcPrefixUtils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcPrefixUtils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcWrite.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.deps/hrcWrite.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/.libs/libhrc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/.libs/libhrc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumper.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumper.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperDebug.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperDebug.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperSmv.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperSmv.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperXml.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/hrc/dumpers/.deps/HrcDumperXml.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltl.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltl.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlCompassion.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlCompassion.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlRewrite.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/.deps/ltlRewrite.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/.libs/libltl.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/.libs/libltl.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.deps/ltl2smv.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.deps/ltl2smv.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.libs/libltl2smv.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/.libs/libltl2smv.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/ltl2smv" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/ltl/ltl2smv/ltl2smv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcAGonly.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcAGonly.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcEval.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcEval.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcExplain.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcExplain.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcInvar.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcInvar.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcLE.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcLE.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcMc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcMc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcTrace.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.deps/mcTrace.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/.libs/libmc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/.libs/libmc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/mc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/mc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCE.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCE.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCECmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCECmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCEDbg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCEDbg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCEPkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/nextce/.deps/NextCEPkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/nextce/.libs/libnextce.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/nextce/.libs/libnextce.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/nextce/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/nextce/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/.deps/MasterNodeWalker.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/MasterNodeWalker.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/.deps/NodeWalker.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/NodeWalker.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/.deps/node.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/node.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/.deps/nodePkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/nodePkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/.deps/nodePrint.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/nodePrint.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/.deps/nodeWffPrint.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/.deps/nodeWffPrint.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/.libs/libnode.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/.libs/libnode.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/MasterNormalizer.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/MasterNormalizer.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerBase.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerBase.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerCore.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerCore.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerPsl.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.deps/NormalizerPsl.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/normalizers/.libs/libnodenormalizers.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/.libs/libnodenormalizers.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/normalizers/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/normalizers/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/MasterPrinter.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/MasterPrinter.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterBase.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterBase.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterIWffCore.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterIWffCore.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterPsl.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterPsl.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterSexpCore.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterSexpCore.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterWffCore.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.deps/PrinterWffCore.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/.libs/libnodeprinters.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/.libs/libnodeprinters.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/node/printers/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/node/printers/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/opt/.deps/OptsHandler.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/opt/.deps/OptsHandler.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/opt/.deps/optCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/opt/.deps/optCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/opt/.libs/libopt.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/opt/.libs/libopt.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/opt/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/opt/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/.deps/grammar.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/grammar.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/.deps/input.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/input.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/.deps/parserCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/parserCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/.deps/parserUtil.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/.deps/parserUtil.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/.libs/libparser.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/.libs/libparser.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/.libs/libsmvgrammar.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/.libs/libsmvgrammar.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/ParserIdList.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/ParserIdList.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/idlist_grammar.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/idlist_grammar.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/idlist_input.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.deps/idlist_input.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/idlist/.libs/libparseridlist.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/.libs/libparseridlist.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/idlist/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/idlist/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ParserOrd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ParserOrd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ord_grammar.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ord_grammar.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ord_input.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.deps/ord_input.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/ord/.libs/libparserOrd.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/.libs/libparserOrd.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/ord/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/ord/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslConv.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslConv.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslExpr.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslExpr.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslNode.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/pslNode.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/psl_grammar.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/psl_grammar.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/psl_input.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.deps/psl_input.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/psl/.libs/libparserpsl.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/.libs/libparserpsl.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/parser/psl/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/parser/psl/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/prop/.deps/Prop.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/Prop.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/prop/.deps/PropDb.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/PropDb.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/prop/.deps/propCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/propCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/prop/.deps/propPkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/prop/.deps/propPkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/prop/.libs/libprop.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/prop/.libs/libprop.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/prop/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/prop/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/ConjSet.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/ConjSet.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/InlineResult.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/InlineResult.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnf.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnf.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnfCompact.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnfCompact.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnfSimple.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcCnfSimple.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcFormula.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcFormula.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcInline.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcInline.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcManager.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcManager.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcOutput.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcOutput.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcStat.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcStat.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcSubst.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcSubst.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcUtils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.deps/rbcUtils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/.libs/librbc.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/.libs/librbc.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/rbc/clg/.deps/clgClg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/rbc/clg/.deps/clgClg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sat/.deps/SatIncSolver.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sat/.deps/SatIncSolver.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sat/.deps/SatSolver.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sat/.deps/SatSolver.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sat/.deps/satUtils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sat/.deps/satUtils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sat/.libs/libsat.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sat/.libs/libsat.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sat/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sat/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sat/solvers/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sat/solvers/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/set/.deps/setSet.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/set/.deps/setSet.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/set/.libs/libset.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/set/.libs/libset.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/set/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/set/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sexp/.deps/SexpInliner.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sexp/.deps/SexpInliner.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sexp/.libs/libsexp.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sexp/.libs/libsexp.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/sexp/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/sexp/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulate.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulate.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulateCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulateCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulateTransSet.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/simulate/.deps/simulateTransSet.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/simulate/.libs/libsimulate.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/simulate/.libs/libsimulate.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/simulate/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/simulate/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/Trace.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/Trace.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceLabel.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceLabel.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceManager.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceManager.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceOpt.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceOpt.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceXml.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/TraceXml.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/Trace_private.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/Trace_private.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/pkg_trace.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/pkg_trace.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceCmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceCmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceEval.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceEval.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceTest.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceTest.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceUtils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.deps/traceUtils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/.libs/libtrace.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/.libs/libtrace.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/Trace.c" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/Trace.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nusmv/src/trace/Trace_private.c" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/Trace_private.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/Trace_private.h" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/Trace_private.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/eval/.deps/BaseEvaluator.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/eval/.deps/BaseEvaluator.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BDDCompleteTraceExecutor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BDDCompleteTraceExecutor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BDDPartialTraceExecutor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BDDPartialTraceExecutor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BaseTraceExecutor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/BaseTraceExecutor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/CompleteTraceExecutor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/CompleteTraceExecutor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/PartialTraceExecutor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/PartialTraceExecutor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/SATCompleteTraceExecutor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/SATCompleteTraceExecutor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/SATPartialTraceExecutor.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/SATPartialTraceExecutor.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/traceExec.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/exec/.deps/traceExec.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/loaders/.deps/TraceLoader.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/loaders/.deps/TraceLoader.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/loaders/.deps/TraceXmlLoader.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/loaders/.deps/TraceXmlLoader.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceCompact.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceCompact.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceExplainer.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceExplainer.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TracePlugin.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TracePlugin.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceTable.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceTable.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceXmlDumper.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trace/plugins/.deps/TraceXmlDumper.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trans/.libs/libtrans.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trans/.libs/libtrans.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trans/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trans/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/BddTrans.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/BddTrans.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/Cluster.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/Cluster.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/ClusterList.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/ClusterList.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/ClusterOptions.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trans/bdd/.deps/ClusterOptions.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/trans/generic/.deps/GenericTrans.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/trans/generic/.deps/GenericTrans.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/NodeGraph.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/NodeGraph.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/NodeList.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/NodeList.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/Olist.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Olist.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/Pair.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Pair.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/Slist.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Slist.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/Sset.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Sset.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/Stack.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Stack.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/TimerBench.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/TimerBench.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/Triple.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/Triple.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/WordNumber.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/WordNumber.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/array.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/array.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/assoc.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/assoc.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/avl.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/avl.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/error.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/error.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/heap.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/heap.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/list.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/list.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/object.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/object.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/portability.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/portability.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/range.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/range.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/ucmd.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/ucmd.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/ustring.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/ustring.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/utils.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/utils.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.deps/utils_io.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.deps/utils_io.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/.libs/libutils.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/.libs/libutils.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/utils/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/utils/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/wff/.deps/exprWff.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/wff/.deps/exprWff.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/wff/.deps/wffPkg.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/wff/.deps/wffPkg.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/wff/.libs/libwff.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/wff/.libs/libwff.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/wff/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/wff/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/wff/w2w/.deps/wff2nnf.Plo" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/.deps/wff2nnf.Plo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/wff/w2w/.libs/libw2w.a" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/.libs/libw2w.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nusmv/src/wff/w2w/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/nusmv/src/wff/w2w/Makefile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -757,17 +500,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7740">
-              <caret line="681" column="4" selection-start-line="681" selection-start-column="4" selection-end-line="681" selection-end-column="4" />
+            <state relative-caret-position="81">
+              <caret line="322" selection-start-line="322" selection-end-line="322" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="248" selection-start-line="248" selection-end-line="248" />
+              <folding>
+                <element signature="e#4550#4572#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCEPkg.c">
+        <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="97">
+              <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -775,53 +530,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="1200" column="3" lean-forward="true" selection-start-line="1200" selection-start-column="3" selection-end-line="1200" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nusmv/src/mc/mcTrace.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2590">
-              <caret line="171" selection-start-line="171" selection-end-line="171" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="193" selection-start-line="193" selection-end-line="193" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="255" selection-start-line="255" selection-end-line="255" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="246" selection-start-line="246" selection-end-line="246" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCE.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-424">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="81">
+              <caret line="591" selection-start-line="591" selection-end-line="591" />
             </state>
           </provider>
         </entry>
@@ -851,14 +561,29 @@
       <find>TraceExplainer_create</find>
       <find>test_expr_in_state</find>
       <find>Ltl_CheckLtlSpecEx</find>
-      <find>create_fipath</find>
-      <find>create_updated_prop</find>
-      <find>displayNextCE</find>
       <find>nextceDo</find>
       <find>CommandCENextCE</find>
+      <find>create_updated_prop</find>
+      <find>displayNextCE</find>
+      <find>create_fipath</find>
+      <find>find_trunc_trace_step</find>
+      <find>Trace_copy_ex</find>
+      <find>generate_and_append_disjunc</find>
+      <find>O2</find>
+      <find>return</find>
+      <find>Trace.h</find>
+      <find>trace_ptr</find>
+      <find>util</find>
+      <find>trace_init</find>
+      <find>ex</find>
+      <find>generate_disjunc</find>
     </findStrings>
+    <replaceStrings>
+      <replace>O0</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/nusmv/src/trace</dir>
+      <dir>$PROJECT_DIR$/nusmv/src/nextce</dir>
       <dir>$PROJECT_DIR$/nusmv/src</dir>
     </dirStrings>
   </component>
@@ -869,9 +594,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/nusmv/src/trace/Trace_private.c" />
         <option value="$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c" />
         <option value="$PROJECT_DIR$/nusmv/src/ltl/ltl.c" />
+        <option value="$PROJECT_DIR$/nusmv/configure" />
+        <option value="$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c" />
+        <option value="$PROJECT_DIR$/nusmv/src/trace/Trace_private.h" />
+        <option value="$PROJECT_DIR$/nusmv/src/trace/Trace_private.c" />
+        <option value="$PROJECT_DIR$/nusmv/src/trace/Trace.c" />
       </list>
     </option>
   </component>
@@ -886,7 +615,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -899,23 +627,11 @@
               <item name="nextce4nusmv" type="462c0819:PsiDirectoryNode" />
               <item name="nusmv" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="libjpeg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nextce4nusmv" type="462c0819:PsiDirectoryNode" />
-              <item name="nusmv" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="libjpeg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nextce4nusmv" type="462c0819:PsiDirectoryNode" />
-              <item name="nusmv" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nextce" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -925,7 +641,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -976,31 +692,34 @@
       <workItem from="1551707146328" duration="72000" />
       <workItem from="1551707232877" duration="880000" />
       <workItem from="1551750208183" duration="13633000" />
+      <workItem from="1551771827210" duration="247000" />
+      <workItem from="1551772115592" duration="347000" />
+      <workItem from="1551938721670" duration="662000" />
+      <workItem from="1551939424291" duration="11979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16067000" />
+    <option name="totallyTimeSpent" value="29302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="718" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.27567977" />
+      <window_info id="Structure" order="1" sideWeight="0.5008518" side_tool="true" visible="true" weight="0.27567977" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.32925472" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" visible="true" weight="0.3047831" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.32879046" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.41226575" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32925472" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32925472" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924472" weight="0.32879046" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007553" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32879046" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1020,166 +739,124 @@
           <line>21</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.c</url>
-          <line>1207</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c</url>
-          <line>254</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
         <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c</url>
           <line>265</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c</url>
-          <line>161</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>680</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>665</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>193</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>198</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>207</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>216</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>215</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>674</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>676</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>186</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>199</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>281</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>208</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c</url>
-          <line>212</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>206</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>210</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>301</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>303</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>658</line>
+          <line>660</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>681</line>
-          <option name="timeStamp" value="40" />
+          <line>330</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>719</line>
-          <option name="timeStamp" value="41" />
+          <line>322</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.c</url>
+          <line>591</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>725</line>
-          <option name="timeStamp" value="42" />
+          <line>451</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c</url>
-          <line>855</line>
-          <option name="timeStamp" value="43" />
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.c</url>
+          <line>570</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace.c</url>
+          <line>252</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace.c</url>
+          <line>250</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace.c</url>
+          <line>248</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace.c</url>
+          <line>246</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace.c</url>
+          <line>251</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nusmv/src/trace/Trace.c</url>
+          <line>249</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
         <watch expression="cnt" language="ObjectiveC" />
+        <watch expression="res" language="ObjectiveC" />
+        <watch expression="rr" language="ObjectiveC" />
+        <watch expression="gg" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
+        <expression-string>gg</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Trace_ptr)0x5598db80</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>0x5598db80</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>cnt</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>res</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCEDbg.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1250,24 +927,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="217" selection-start-line="217" selection-end-line="217" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nusmv/src/trace/pkg_trace.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-738">
           <caret line="93" column="60" lean-forward="true" selection-start-line="93" selection-start-column="60" selection-end-line="93" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="246" selection-start-line="246" selection-end-line="246" />
         </state>
       </provider>
     </entry>
@@ -1285,52 +948,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nusmv/src/mc/mcTrace.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2590">
-          <caret line="171" selection-start-line="171" selection-end-line="171" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCEPkg.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
+        <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.c">
+    <entry file="file://$PROJECT_DIR$/nusmv/src/mc/mcTrace.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1200" column="3" lean-forward="true" selection-start-line="1200" selection-start-column="3" selection-end-line="1200" selection-end-column="3" />
+        <state relative-caret-position="2565">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="255" selection-start-line="255" selection-end-line="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="193" selection-start-line="193" selection-end-line="193" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7740">
-          <caret line="681" column="4" selection-start-line="681" selection-start-column="4" selection-end-line="681" selection-end-column="4" />
+        <state relative-caret-position="90">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCE.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-424">
+        <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/plugins/TraceExplainer.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="254" column="65" selection-start-line="254" selection-start-column="65" selection-end-line="254" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/configure">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="4279" column="28" selection-start-line="4279" selection-start-column="28" selection-end-line="4279" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/src/ltl/ltl.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="667" selection-start-line="667" selection-end-line="667" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="265" column="7" selection-start-line="265" selection-start-column="7" selection-end-line="265" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace_private.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="591" selection-start-line="591" selection-end-line="591" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/src/nextce/NextCECmd.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="322" selection-start-line="322" selection-end-line="322" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusmv/src/trace/Trace.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="248" selection-start-line="248" selection-end-line="248" />
+          <folding>
+            <element signature="e#4550#4572#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

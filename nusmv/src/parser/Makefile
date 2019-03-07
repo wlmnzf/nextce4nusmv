@@ -187,13 +187,13 @@ AUTOMAKE = ${SHELL} /home/william/nextce4nusmv/nusmv/helpers/missing --run autom
 AWK = gawk
 CC = gcc
 CCDEPMODE = depmode=gcc3
-CFLAGS = -fno-strict-aliasing -g -O2
+CFLAGS = -fno-strict-aliasing -g -O0
 CPP = gcc -E
 CPPFLAGS = 
 CXX = g++
 CXXCPP = g++ -E
 CXXDEPMODE = depmode=gcc3
-CXXFLAGS = -g -O2
+CXXFLAGS = -g -O0
 CYGPATH_W = echo
 DEFS = -DHAVE_CONFIG_H
 DEPDIR = .deps
@@ -291,7 +291,7 @@ datarootdir = ${prefix}/share
 docdir = ${datarootdir}/doc/${PACKAGE_TARNAME}
 dvidir = ${docdir}
 exec_prefix = ${prefix}
-expat_libs = 
+expat_libs =  -lexpat
 expatuserinc = 
 have_sat_solver = no
 host = x86_64-unknown-linux-gnu
@@ -345,13 +345,13 @@ CUDD_DIR = ../$(CUDD_NAME)
 INCLUDES = -I$(top_srcdir)/src -I$(top_builddir)/src -I$(top_srcdir)/$(CUDD_DIR)/include
 SUBDIRS = ord psl idlist
 GRAMMAR_START = begin # initial smv grammar non-terminal symbol
-#BUILT_SOURCES = grammar.h grammar.c grammar.y \
-#		 	        	grammar.y.1 grammar.y.2 grammar.y.3 \
-#                input.c input.l input.l.1 input.l.2 input.l.3 
-
 BUILT_SOURCES = grammar.h grammar.c grammar.y \
-                input.c input.l input.l.1 input.l.2 input.l.3 \
-	        			$(top_srcdir)/$(CUDD_DIR)/include/cudd.h
+		 	        	grammar.y.1 grammar.y.2 grammar.y.3 \
+                input.c input.l input.l.1 input.l.2 input.l.3 
+
+#BUILT_SOURCES = grammar.h grammar.c grammar.y \
+#                input.c input.l input.l.1 input.l.2 input.l.3 \
+#	        			$(top_srcdir)/$(CUDD_DIR)/include/cudd.h
 
 MOSTLYCLEANFILES = grammar.h grammar.c grammar.y \
 		   grammar.y.1 grammar.y.2 grammar.y.3 \

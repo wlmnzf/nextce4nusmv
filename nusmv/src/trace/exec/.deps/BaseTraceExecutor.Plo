@@ -17,8 +17,8 @@ exec/BaseTraceExecutor.lo: exec/BaseTraceExecutor.c \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h exec/BaseTraceExecutor.h \
- ../utils/object.h /usr/include/memory.h /usr/include/string.h \
+ exec/BaseTraceExecutor.h ../utils/object.h /usr/include/memory.h \
+ /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h /usr/include/assert.h ../utils/utils.h \
@@ -49,11 +49,10 @@ exec/BaseTraceExecutor.lo: exec/BaseTraceExecutor.c \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
- /usr/include/alloca.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib-float.h ../utils/defs.h \
- /usr/include/inttypes.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h \
- /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/alloca.h /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ ../utils/defs.h /usr/include/inttypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../utils/list.h \
  ../utils/utils.h exec/BaseTraceExecutor_private.h ../trace/Trace.h \
@@ -146,8 +145,6 @@ exec/BaseTraceExecutor.lo: exec/BaseTraceExecutor.c \
 
 /usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdio.h:
-
 exec/BaseTraceExecutor.h:
 
 ../utils/object.h:
@@ -227,8 +224,6 @@ exec/BaseTraceExecutor.h:
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
 
 /usr/include/alloca.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 

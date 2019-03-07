@@ -146,13 +146,13 @@ AUTOMAKE = ${SHELL} /home/william/nextce4nusmv/nusmv/helpers/missing --run autom
 AWK = gawk
 CC = gcc
 CCDEPMODE = depmode=gcc3
-CFLAGS = -fno-strict-aliasing -g -O2
+CFLAGS = -fno-strict-aliasing -g -O0
 CPP = gcc -E
 CPPFLAGS = 
 CXX = g++
 CXXCPP = g++ -E
 CXXDEPMODE = depmode=gcc3
-CXXFLAGS = -g -O2
+CXXFLAGS = -g -O0
 CYGPATH_W = echo
 DEFS = -DHAVE_CONFIG_H
 DEPDIR = .deps
@@ -250,7 +250,7 @@ datarootdir = ${prefix}/share
 docdir = ${datarootdir}/doc/${PACKAGE_TARNAME}
 dvidir = ${docdir}
 exec_prefix = ${prefix}
-expat_libs = 
+expat_libs =  -lexpat
 expatuserinc = 
 have_sat_solver = no
 host = x86_64-unknown-linux-gnu

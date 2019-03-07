@@ -70,6 +70,9 @@ typedef struct TraceFrozenFrame_TAG* TraceFrozenFrame_ptr;
 typedef struct TraceVarFrame_TAG* TraceVarFrame_ptr;
 typedef struct TraceDefineFrame_TAG* TraceDefineFrame_ptr;
 
+
+
+
 /**Struct**********************************************************************
 
 
@@ -207,11 +210,20 @@ typedef struct TraceDefineFrame_TAG
 #define TRACE_FROZEN_FRAME_CHECK_INSTANCE(x) \
   (nusmv_assert(TRACE_FROZEN_FRAME(x) != TRACE_FROZEN_FRAME(NULL)))
 
+//add
+extern Trace_ptr  gg;
+
+
+
+
 /**AutomaticStart*************************************************************/
+
+
 
 /*---------------------------------------------------------------------------*/
 /* Function prototypes                                                       */
 /*---------------------------------------------------------------------------*/
+
 
 EXTERN Trace_ptr
 trace_create ARGS((SymbTable_ptr st, const char* desc,

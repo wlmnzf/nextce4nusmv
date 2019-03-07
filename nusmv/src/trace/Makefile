@@ -69,8 +69,8 @@ PRE_UNINSTALL = :
 POST_UNINSTALL = :
 build_triplet = x86_64-unknown-linux-gnu
 host_triplet = x86_64-unknown-linux-gnu
-#am__append_1 = loaders/TraceXmlLoader.h  loaders/TraceXmlLoader_private.h
-#am__append_2 = loaders/TraceXmlLoader.c
+am__append_1 = loaders/TraceXmlLoader.h  loaders/TraceXmlLoader_private.h
+am__append_2 = loaders/TraceXmlLoader.c
 subdir = src/trace
 DIST_COMMON = $(am__nobase_trace_HEADERS_DIST) $(srcdir)/Makefile.am \
 	$(srcdir)/Makefile.in
@@ -134,7 +134,7 @@ am__objects_4 = exec/traceExec.lo exec/BaseTraceExecutor.lo \
 	exec/SATPartialTraceExecutor.lo
 am__objects_5 = eval/BaseEvaluator.lo
 am__objects_6 = $(am__objects_1)
-#am__objects_7 = loaders/TraceXmlLoader.lo
+am__objects_7 = loaders/TraceXmlLoader.lo
 am__objects_8 = loaders/TraceLoader.lo $(am__objects_7)
 am__objects_9 = $(am__objects_1) $(am__objects_2) $(am__objects_1) \
 	$(am__objects_3) $(am__objects_1) $(am__objects_4) \
@@ -216,13 +216,13 @@ AUTOMAKE = ${SHELL} /home/william/nextce4nusmv/nusmv/helpers/missing --run autom
 AWK = gawk
 CC = gcc
 CCDEPMODE = depmode=gcc3
-CFLAGS = -fno-strict-aliasing -g -O2
+CFLAGS = -fno-strict-aliasing -g -O0
 CPP = gcc -E
 CPPFLAGS = 
 CXX = g++
 CXXCPP = g++ -E
 CXXDEPMODE = depmode=gcc3
-CXXFLAGS = -g -O2
+CXXFLAGS = -g -O0
 CYGPATH_W = echo
 DEFS = -DHAVE_CONFIG_H
 DEPDIR = .deps
@@ -320,7 +320,7 @@ datarootdir = ${prefix}/share
 docdir = ${datarootdir}/doc/${PACKAGE_TARNAME}
 dvidir = ${docdir}
 exec_prefix = ${prefix}
-expat_libs = 
+expat_libs =  -lexpat
 expatuserinc = 
 have_sat_solver = no
 host = x86_64-unknown-linux-gnu
@@ -376,8 +376,8 @@ INCLUDES = -I. -I.. -I$(top_srcdir)/src -I$(top_srcdir)/$(CUDD_DIR)/include
 LOADERS_H = loaders/TraceLoader.h loaders/TraceLoader_private.h \
 	$(am__append_1)
 LOADERS_C = loaders/TraceLoader.c $(am__append_2)
-EXTRA_DIST = loaders/TraceXmlLoader.h loaders/TraceXmlLoader_private.h \
-						 	 loaders/TraceXmlLoader.c 
+#EXTRA_DIST = loaders/TraceXmlLoader.h loaders/TraceXmlLoader_private.h \
+#						 	 loaders/TraceXmlLoader.c 
 
 EXEC_H = exec/traceExec.h exec/BaseTraceExecutor.h exec/BaseTraceExecutor_private.h \
 	 exec/CompleteTraceExecutor.h exec/CompleteTraceExecutor_private.h \

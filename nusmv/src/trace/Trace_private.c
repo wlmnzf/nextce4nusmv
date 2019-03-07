@@ -373,6 +373,10 @@ static inline int
 trace_compare_section_storage ARGS((node_ptr* dest, node_ptr* src,
                                     unsigned n_symbs));
 
+
+
+Trace_ptr gg;
+
 /**AutomaticEnd***************************************************************/
 
 /*---------------------------------------------------------------------------*/
@@ -476,8 +480,10 @@ trace_copy_ex (Trace_ptr self, TraceIter from_here, TraceIter until_here,
 {
   Trace_ptr res = ALLOC(Trace, 1);
 
+
   TRACE_CHECK_INSTANCE(res);
   trace_init(res);
+
 
   { /* phase 0: initialize instance fields */
     trace_thaw(res); /* create it thawed, will be frozen as the last
@@ -581,7 +587,9 @@ trace_copy_ex (Trace_ptr self, TraceIter from_here, TraceIter until_here,
     }
   }
 
-  return res;
+  Trace_ptr rr=res;
+    gg=res;
+  return rr;
 }  /* trace_copy */
 
 Trace_ptr

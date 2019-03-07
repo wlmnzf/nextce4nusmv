@@ -17,7 +17,7 @@ old_library='libnusmv.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' /home/william/nextce4nusmv/nusmv/src/parser/libsmvgrammar.la /home/william/nextce4nusmv/nusmv/src/librbcdag.la -L./../cudd-2.4.1.1/lib -lcudd -lcudd_util -lmtr -lst -lm'
+dependency_libs=' /home/william/nextce4nusmv/nusmv/src/parser/libsmvgrammar.la /home/william/nextce4nusmv/nusmv/src/librbcdag.la -L./../cudd-2.4.1.1/lib -lcudd -lcudd_util -lmtr -lst -lexpat -lm'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''

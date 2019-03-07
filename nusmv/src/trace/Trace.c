@@ -119,6 +119,8 @@ static const char* TRACE_TYPE_CNTEXAMPLE_STRING   = "Counterexample";
 static const char* TRACE_TYPE_SIMULATION_STRING   = "Simulation";
 static const char* TRACE_TYPE_EXECUTION_STRING    = "Execution";
 
+Trace_ptr gg;
+
 /*---------------------------------------------------------------------------*/
 /* Type declarations                                                         */
 /*---------------------------------------------------------------------------*/
@@ -243,8 +245,14 @@ Trace_copy_ex (const Trace_ptr self, const TraceIter from_here,
 		const TraceIter until_here, boolean is_volatile)
 {
   TRACE_CHECK_INSTANCE(self);
-  return trace_copy_ex(self, from_here, until_here, is_volatile);
+//  return trace_copy_ex(self, from_here, until_here, is_volatile);
+  Trace_ptr res=trace_copy_ex(self, from_here, until_here, is_volatile);//这个地方的值跟里面return的值不一样
+  res=gg;
+  int a=0;
+  int c=a+3;
+  return res;
 }
+
 
 
 /**Function********************************************************************

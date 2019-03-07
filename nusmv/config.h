@@ -51,7 +51,7 @@
 #define HAVE_ISATTY 1
 
 /* Disables expat usage */
-/* #undef HAVE_LIBEXPAT */
+#define HAVE_LIBEXPAT 1
 
 /* Define to 1 if you have the `m' library (-lm). */
 #define HAVE_LIBM 1
@@ -212,7 +212,7 @@
 #define LIBRARY_BUGREPORT "Please report bugs to <nusmv-users@fbk.eu>"
 
 /* Library build date */
-#define LIBRARY_BUILD_DATE "Mon Mar  4 12:57:51 UTC 2019"
+#define LIBRARY_BUILD_DATE "Thu Mar  7 07:00:32 UTC 2019"
 
 /* Library Email */
 #define LIBRARY_EMAIL "nusmv-users@list.fbk.eu"
@@ -244,7 +244,7 @@
 #define PACKAGE_BUGREPORT "nusmv-users@fbk.eu"
 
 /* Build date */
-#define PACKAGE_BUILD_DATE "Mon Mar  4 12:57:51 UTC 2019"
+#define PACKAGE_BUILD_DATE "Thu Mar  7 07:00:32 UTC 2019"
 
 /* Define to the full name of this package. */
 #define PACKAGE_NAME "NuSMV"

@@ -161,7 +161,7 @@ lock_old_archive_extraction=no
 LTCC="gcc"
 
 # LTCC compiler flags.
-LTCFLAGS="-fno-strict-aliasing -g -O2"
+LTCFLAGS="-fno-strict-aliasing -g -O0"
 
 # Take the output of nm and produce a listing of raw symbols and C names.
 global_symbol_pipe="sed -n -e 's/^.*[	 ]\\([ABCDGIRSTW][ABCDGIRSTW]*\\)[	 ][	 ]*\\([_A-Za-z][_A-Za-z0-9]*\\)\$/\\1 \\2 \\2/p' | sed '/ __gnu_lto/d'"
@@ -1313,11 +1313,8 @@ func_len ()
 # func_lo2o object
 func_lo2o ()
 {
-    case ${1} in
-      *.lo) func_lo2o_result=${1%.lo}.${objext} ;;
-      *)    func_lo2o_result=${1} ;;
-    esac
-} # Extended-shell func_lo2o implementation
+    func_lo2o_result=`$ECHO "${1}" | $SED "$lo2o"`
+} # func_lo2o may be replaced by extended shell implementation
 
 
 # func_xform libobj-or-source

@@ -83,7 +83,9 @@
 #endif
 
 /* Disables expat usage */
-/* #undef HAVE_LIBEXPAT */
+#ifndef NUSMV_HAVE_LIBEXPAT
+#define NUSMV_HAVE_LIBEXPAT 1
+#endif
 
 /* Define to 1 if you have the `m' library (-lm). */
 #ifndef NUSMV_HAVE_LIBM
@@ -333,7 +335,7 @@
 
 /* Library build date */
 #ifndef NUSMV_LIBRARY_BUILD_DATE
-#define NUSMV_LIBRARY_BUILD_DATE "Mon Mar  4 12:57:51 UTC 2019"
+#define NUSMV_LIBRARY_BUILD_DATE "Thu Mar  7 07:00:32 UTC 2019"
 #endif
 
 /* Library Email */
@@ -383,7 +385,7 @@
 
 /* Build date */
 #ifndef NUSMV_PACKAGE_BUILD_DATE
-#define NUSMV_PACKAGE_BUILD_DATE "Mon Mar  4 12:57:51 UTC 2019"
+#define NUSMV_PACKAGE_BUILD_DATE "Thu Mar  7 07:00:32 UTC 2019"
 #endif
 
 /* Define to the full name of this package. */
