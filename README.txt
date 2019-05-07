@@ -1,3 +1,11 @@
+Modified by Limin Wang
+
+Fix a Segmentfault bug, but the author of the project told me it doesn't work
+
+look at here
+
+https://github.com/omeranson/nextce4nusmv/issues/1
+##### ==============================================================
 These instructions are based on NuSMV's installation instructions. Please refer
 to nusmv/README for more information.
 These instructions were tested on the server nova, as well as on Fedora Core Linux.
@@ -20,11 +28,3 @@ libraries are installed.
 
 NuSMV should compile. Once compiled, a NuSMV binary is created and can bea executed.
 
-Usage:
-1. Run: ./NuSMV -int <filename.smv>
-2. (Optionally) Set ce_equivalence class (1-4): set ce_equivalence <class>
-3. Run: go
-4. Run: next_ce to get the next counter-example
-4. (Alternatively) Run: compute_all to get all counterexamples.
-
-To add debug information, run: export NEXTCE_DEBUG=5 (for bash-like shells)
